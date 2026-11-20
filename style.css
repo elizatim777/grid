@@ -127,3 +127,16 @@
     padding: 10px;
     border: 1px solid blue;
 }
+
+#a1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
+    padding: 10px;
+    width: 600px;
+}
+
+#a2 {
+    padding: 10px;
+    border: 1px solid blue;
+}
