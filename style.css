@@ -76,7 +76,7 @@
     border: 1px solid blue;
 }
 
-#u1 {
+#i1 {
     display: grid;
     grid-template-columns: 1fr 2fr 3fr;
     border: 1px solid black;
@@ -84,7 +84,7 @@
     width: 600px;
 }
 
-#u2 {
+#i2 {
     padding: 10px;
     border: 1px solid blue;
 }
