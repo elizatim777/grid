@@ -76,6 +76,19 @@
     border: 1px solid blue;
 }
 
+#u1 {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 600px;
+}
+
+#u2 {
+    padding: 10px;
+    border: 1px solid blue;
+}
+
 #i1 {
     display: grid;
     grid-template-columns: 1fr 2fr 3fr;
@@ -85,6 +98,19 @@
 }
 
 #i2 {
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+#o1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid black;
+    padding: 10px;
+    width: 600px;
+}
+
+#o2 {
     padding: 10px;
     border: 1px solid blue;
 }
